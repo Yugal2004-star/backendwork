@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "yugal",
+  "author": "yugal tembhare",
   "license": "ISC",
   "description": "",
   "dependencies": {
